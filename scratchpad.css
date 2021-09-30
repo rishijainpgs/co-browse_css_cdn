@@ -1,0 +1,54 @@
+.start-section{
+    margin-top: auto;
+}
+
+.webchat-security-key-form{
+    width: 340px;
+    height: 117px;
+    background-color: white;
+    margin-top: 0px;
+    border: 0px;
+    padding: 24px 16px;
+}
+
+.input-group-lg > .form-control{
+    height: 35px;
+}
+
+.input-group-lg > .form-control::placeholder{
+    color: #333333;
+}
+
+.input-group-lg > .input-group-btn > .btn{
+    height: 35px;
+    padding-top: 5px;
+    padding-bottom: 5px
+}
+
+.input-group{
+    width: inherit;
+}
+
+.btn-primary{
+    background-color: #035fa4;
+}
+
+.btn-primary:hover{
+    background-color: #04508a;
+}
+
+.btn-primary:active{
+    background-color: #034170;
+}
+
+.input-group-lg > .form-control, .input-group-lg > .input-group-btn > .btn{
+    font-family: 'FS Elliot Web Regular';
+    font-size: 16px;
+}
+
+@font-face {
+    font-family: 'FS Elliot Web Regular';
+    src: url(https://www.principalcdn.com/css/principal-design-system/pds/latest/fonts/elliot/FSElliotWeb-Regular.woff) format("woff");
+    font-weight: 400;
+    font-style: normal
+}
