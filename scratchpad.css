@@ -45,10 +45,3 @@
     font-family: 'FS Elliot Web Regular';
     font-size: 16px;
 }
-
-@font-face {
-    font-family: 'FS Elliot Web Regular';
-    src: url(https://www.principalcdn.com/css/principal-design-system/pds/latest/fonts/elliot/FSElliotWeb-Regular.woff) format("woff");
-    font-weight: 400;
-    font-style: normal
-}
